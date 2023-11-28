@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "随记 • All posts by \"java\" tag",
+    "description": "记录瞎写的东西",
+    "home_page_url": "https://z2y.vercel.app",
+    "items": [
+        {
+            "id": "https://z2y.vercel.app/2023/11/28/java/",
+            "url": "https://z2y.vercel.app/2023/11/28/java/",
+            "title": "java",
+            "date_published": "2023-11-28T02:44:42.000Z",
+            "content_html": "<h2 id=\"1-关键字keyword\"><a class=\"markdownIt-Anchor\" href=\"#1-关键字keyword\">#</a> 1. 关键字（keyword）</h2>\n<ul>\n<li>定义：<strong>被 Java 语言赋予了特殊含义，用做专门用途的字符串（或单词）</strong>\n<ul>\n<li>HelloWorld 案例中，出现的关键字有  <code>class</code> 、 <code>public </code>   、  <code>static</code>  、   <code>void</code>   等，这些单词已经被 Java 定义好了。</li>\n</ul>\n</li>\n<li>特点：全部关键字都是 <code>小写字母</code> 。</li>\n<li>关键字比较多，不需要死记硬背，学到哪里记到哪里即可。</li>\n</ul>\n",
+            "tags": [
+                "Java"
+            ]
+        }
+    ]
+}
